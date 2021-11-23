@@ -1,0 +1,8 @@
+C:\Users\felip\Desktop\C#\Conceitos\Conceitos\bin\Debug\Conceitos.exe.config
+C:\Users\felip\Desktop\C#\Conceitos\Conceitos\bin\Debug\Conceitos.exe
+C:\Users\felip\Desktop\C#\Conceitos\Conceitos\bin\Debug\Conceitos.pdb
+C:\Users\felip\Desktop\C#\Conceitos\Conceitos\obj\Debug\Conceitos.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#\Conceitos\Conceitos\obj\Debug\Conceitos.csproj.SuggestedBindingRedirects.cache
+C:\Users\felip\Desktop\C#\Conceitos\Conceitos\obj\Debug\Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#\Conceitos\Conceitos\obj\Debug\Conceitos.exe
+C:\Users\felip\Desktop\C#\Conceitos\Conceitos\obj\Debug\Conceitos.pdb

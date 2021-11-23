@@ -1,0 +1,15 @@
+C:\Users\felip\Desktop\C#\primeiroConsole\bin\Debug\net6.0\primeiroConsole.exe
+C:\Users\felip\Desktop\C#\primeiroConsole\bin\Debug\net6.0\primeiroConsole.deps.json
+C:\Users\felip\Desktop\C#\primeiroConsole\bin\Debug\net6.0\primeiroConsole.runtimeconfig.json
+C:\Users\felip\Desktop\C#\primeiroConsole\bin\Debug\net6.0\primeiroConsole.dll
+C:\Users\felip\Desktop\C#\primeiroConsole\bin\Debug\net6.0\ref\primeiroConsole.dll
+C:\Users\felip\Desktop\C#\primeiroConsole\bin\Debug\net6.0\primeiroConsole.pdb
+C:\Users\felip\Desktop\C#\primeiroConsole\obj\Debug\net6.0\primeiroConsole.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\C#\primeiroConsole\obj\Debug\net6.0\primeiroConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\C#\primeiroConsole\obj\Debug\net6.0\primeiroConsole.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\C#\primeiroConsole\obj\Debug\net6.0\primeiroConsole.AssemblyInfo.cs
+C:\Users\felip\Desktop\C#\primeiroConsole\obj\Debug\net6.0\primeiroConsole.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\C#\primeiroConsole\obj\Debug\net6.0\primeiroConsole.dll
+C:\Users\felip\Desktop\C#\primeiroConsole\obj\Debug\net6.0\ref\primeiroConsole.dll
+C:\Users\felip\Desktop\C#\primeiroConsole\obj\Debug\net6.0\primeiroConsole.pdb
+C:\Users\felip\Desktop\C#\primeiroConsole\obj\Debug\net6.0\primeiroConsole.genruntimeconfig.cache
